@@ -1,0 +1,14 @@
+.form-outline{
+    background-color: #dedede;
+    height: 100vh;
+}
+
+
+.input-field{
+    width: 50%;
+}
+.title{
+    font-size: xx-large;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

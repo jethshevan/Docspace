@@ -1,0 +1,61 @@
+.row-1{
+    background-color: whites;
+   
+}
+.row-2{
+    background-color: white;
+   
+}
+.row-3{
+    background-color:white;
+      
+}
+.row-4{
+    background-color: white;
+   
+}
+.doc-name{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.doc-qualification{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.doc-treatment{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.doc-txt{
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+.doc-image{
+    display: block;
+    text-align: center;
+    
+}
+.doctor-img{
+   width: 500px;
+   height: 250px;
+   border: 2px solid black;
+   
+    
+}
+.card-img{
+    width: 50px;
+}
+.row-4-LocatonTime{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.row-4-txt{
+    font-size: medium;
+    font-weight: 600;
+    text-align: center;
+}
